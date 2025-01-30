@@ -1,0 +1,24 @@
+<html>
+    <head>Concessionaria Automobile</head>
+    <body>
+    <h1>"Concessionaria Automobile"</h1>
+    <form action="2.php" method="POST">
+        Scegli la tua auto
+        <br>
+        Modello Auto
+        <select id="IDmacchina" name="macchina">
+            <option value="0"> </option>
+            <option value="25000">Mercedes</option>
+            <option value="30000">BMW</option>
+            <option value="20000">Audi</option>
+            <option value="100000">Bugatti</option>
+            <option value="250000">Ferrari</option>
+            <option value="120000">Lamborghini</option>
+        </select>
+        Scegli il tipo di carburante
+        
+
+
+    </form>
+    </body>
+</html>
